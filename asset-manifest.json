@@ -1,9 +1,9 @@
 {
   "main.css": "/operationunplugged/static/css/main.72a98e3b.chunk.css",
-  "main.js": "/operationunplugged/static/js/main.5f93a2c0.chunk.js",
-  "main.js.map": "/operationunplugged/static/js/main.5f93a2c0.chunk.js.map",
-  "static/js/1.66ed3c75.chunk.js": "/operationunplugged/static/js/1.66ed3c75.chunk.js",
-  "static/js/1.66ed3c75.chunk.js.map": "/operationunplugged/static/js/1.66ed3c75.chunk.js.map",
+  "main.js": "/operationunplugged/static/js/main.b6ead30a.chunk.js",
+  "main.js.map": "/operationunplugged/static/js/main.b6ead30a.chunk.js.map",
+  "static/js/1.a531f479.chunk.js": "/operationunplugged/static/js/1.a531f479.chunk.js",
+  "static/js/1.a531f479.chunk.js.map": "/operationunplugged/static/js/1.a531f479.chunk.js.map",
   "runtime~main.js": "/operationunplugged/static/js/runtime~main.8817cf8b.js",
   "runtime~main.js.map": "/operationunplugged/static/js/runtime~main.8817cf8b.js.map",
   "static/css/main.72a98e3b.chunk.css.map": "/operationunplugged/static/css/main.72a98e3b.chunk.css.map",
@@ -11,6 +11,6 @@
   "static/media/002.png": "/operationunplugged/static/media/002.d01876af.png",
   "static/media/001.png": "/operationunplugged/static/media/001.7ab7955a.png",
   "index.html": "/operationunplugged/index.html",
-  "precache-manifest.2670701c6d77ab105c232fd37d07ba58.js": "/operationunplugged/precache-manifest.2670701c6d77ab105c232fd37d07ba58.js",
+  "precache-manifest.e099504e08cf01f668aa514785c7de43.js": "/operationunplugged/precache-manifest.e099504e08cf01f668aa514785c7de43.js",
   "service-worker.js": "/operationunplugged/service-worker.js"
 }
