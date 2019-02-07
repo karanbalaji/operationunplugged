@@ -1,7 +1,7 @@
 {
   "main.css": "/operationunplugged/static/css/main.afe161cd.chunk.css",
-  "main.js": "/operationunplugged/static/js/main.490ba305.chunk.js",
-  "main.js.map": "/operationunplugged/static/js/main.490ba305.chunk.js.map",
+  "main.js": "/operationunplugged/static/js/main.98e569b4.chunk.js",
+  "main.js.map": "/operationunplugged/static/js/main.98e569b4.chunk.js.map",
   "static/js/1.ab635b8e.chunk.js": "/operationunplugged/static/js/1.ab635b8e.chunk.js",
   "static/js/1.ab635b8e.chunk.js.map": "/operationunplugged/static/js/1.ab635b8e.chunk.js.map",
   "runtime~main.js": "/operationunplugged/static/js/runtime~main.8817cf8b.js",
@@ -19,6 +19,6 @@
   "static/media/001.png": "/operationunplugged/static/media/001.7ab7955a.png",
   "static/css/main.afe161cd.chunk.css.map": "/operationunplugged/static/css/main.afe161cd.chunk.css.map",
   "index.html": "/operationunplugged/index.html",
-  "precache-manifest.347db63f8972934bf6456d79f1bc68cb.js": "/operationunplugged/precache-manifest.347db63f8972934bf6456d79f1bc68cb.js",
+  "precache-manifest.f66913bf5ee1bf754509f8957fcc746a.js": "/operationunplugged/precache-manifest.f66913bf5ee1bf754509f8957fcc746a.js",
   "service-worker.js": "/operationunplugged/service-worker.js"
 }
