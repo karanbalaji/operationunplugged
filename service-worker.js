@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/operationunplugged/precache-manifest.f66913bf5ee1bf754509f8957fcc746a.js"
+  "/centennialexperience/centennialexperience.github.io/precache-manifest.1741f99ca8353d4ef8940531eb32db59.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/operationunplugged/index.html", {
+workbox.routing.registerNavigationRoute("/centennialexperience/centennialexperience.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
